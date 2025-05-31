@@ -1,4 +1,5 @@
 侍テラコヤ
 SAMURAI
 一時退避を確認
+featureに追加
 mainに追加
